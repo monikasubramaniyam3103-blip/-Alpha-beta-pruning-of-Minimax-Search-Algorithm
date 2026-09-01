@@ -31,4 +31,6 @@ When added to a simple minimax algorithm, it gives the same output but cuts off 
 ![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/440797bd-53cb-49c1-b18d-89776864c3e7)
 ![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/81575a16-26b2-46f1-a8ac-27c9ed0a0fe5)
 
+#OUTPUT
+<img width="577" height="532" alt="image" src="https://github.com/user-attachments/assets/f773510a-5c8e-464d-86df-8f0fad2b1c55" />
 
